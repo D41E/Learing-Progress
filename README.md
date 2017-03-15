@@ -5,3 +5,7 @@ Show progress in the form of percentage
 - 可存储
 - 可追踪标记网页、word、excel、pdf等页码 
 - ......
+#### 初步设想
+- 利用改造已有轮子—-->用python 实现跑程序进度条
+  — 参考1 [python 如何实现进度条](http://www.cnblogs.com/hongfei/p/3982259.html)
+  - 参考2 []()
